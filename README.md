@@ -1,5 +1,5 @@
 # Breathalyzer
-Breathalyzer is a UK-based resource for FiveM by Albo1125 that provides breath testing functionality for drivers.
+Breathalyzer is a UK-based resource for FiveM by Albo1125 that provides breath testing functionality for drivers. It is available at [https://github.com/Albo1125/Breathalyzer](https://github.com/Albo1125/Breathalyzer)
 
 ## Installation & Usage
 1. Download the latest release.
